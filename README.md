@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **any ecommerce startup project**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
-
 - 💬 Ask me about **.NET, ReactJS.**
 
 - 📫 How to reach me **cvtai02@gmail.com**
