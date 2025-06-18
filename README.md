@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **cvtai02@gmail.com**
 
-- 📄 Know about my experiences [https://nora-cv.tiiny.site](https://nora-cv.tiiny.site)
-
 - ⚡ Fun fact **I will do anything if the fee is appropriate**
 
 <h3 align="left">Connect with me:</h3>
